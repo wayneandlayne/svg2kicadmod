@@ -2,7 +2,9 @@ SVG to Kicad PCB Module converter
 =================================
 
 Written by Matthew Beckler and Adam Wolf, of Wayne and Layne, LLC
+
 TODO figure out licensing
+
 Released under the terms of the GPLv2 or whatever is required by the library code
 
 This script reads an SVG file and attempts to convert all the objects into
